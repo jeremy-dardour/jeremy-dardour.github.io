@@ -1,0 +1,62 @@
+{
+  "strings": {
+    "header_strongcontent": "Jeremy Dardour",
+    "header_content": ", architect & Web developer.",
+    "aboutme_title": "About me",
+    "experiences_title": "Experiences and projects",
+    "sortbytechno": "Sort by skill :",
+    "work_title": "Work",
+    "education_title": "Education",
+    "personal_title": "Personal",
+    "contact_title": "Get in touch",
+    "talks_title": "Talks",
+    "articles_title": "Articles",
+    "contact_text": "Don't hesitate to send me a message",
+    "contact_email": "Email",
+    "contact_name": "Name",
+    "footer_copyright": "Apache License, Version 2.0",
+    "footer_content": "Made with React. Designed with Strata from HTML5 UP",
+    "months": "months",
+    "years": "years",
+    "month": "month",
+    "year": "year",
+    "from": "from",
+    "to": "to",
+    "at": "at",
+    "seeMoreTags": "See more tags...",
+    "seeLessTags": "See less..."
+  },
+  "profile": {
+    "profile": "",
+    "aboutme": "Graduated from Centrale Paris, I work as agile architect & web developer at Theodo",
+    "email": "jerem.dardour@gmail.com",
+    "address": "99 rue du Faubourg Saint-Honoré, 75008 PARIS",
+    "links": [
+      {
+        "class": "fa-github",
+        "link": "https://github.com/jeremd"
+      },
+      {
+        "class": "fa-linkedin",
+        "link": "https://www.linkedin.com/in/jeremy-dardour"
+      }
+    ],
+    "last_talks": [
+      {
+        "id": 1,
+        "talk_label": "\"Two React fans sent to Angular battlegrounds\" with Loic Carbonne @ FullStack London 2018",
+        "talk_link": "https://skillsmatter.com/skillscasts/11754-two-react-fans-sent-to-angular-battlegrounds-and-what-they-learnt",
+        "iframe_url": "https://player.vimeo.com/video/279840725"
+      },
+      {
+        "id": 2,
+        "talk_label": "\"Ne laissez pas votre state devenir un monstre informe avec ImmutableJS\" @ParisJS MeetUp #68",
+        "talk_link": "https://www.youtube.com/embed/XYtmT82M42o?start=2278",
+        "iframe_url": "https://www.youtube.com/embed/XYtmT82M42o?start=2278"
+      }
+    ],
+    "work_companies": [],
+    "schools": [],
+    "projects": []
+  }
+}

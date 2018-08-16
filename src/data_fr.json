@@ -1,0 +1,63 @@
+{
+  "strings": {
+    "header_strongcontent": "Jérémy Dardour",
+    "header_content": ", architecte & développeur Web.",
+    "aboutme_title": "A propos",
+    "experiences_title": "Expériences et projets",
+    "sortbytechno": "Trier par compétence :",
+    "work_title": "Professionel",
+    "education_title": "Education",
+    "personal_title": "Personnel",
+    "contact_title": "Contact",
+    "talks_title": "Talks",
+    "articles_title": "Articles",
+    "contact_text": "N'hesitez pas à m'envoyer un message",
+    "contact_email": "Email",
+    "contact_name": "Name",
+    "footer_copyright": "Apache License, Version 2.0",
+    "footer_content": "Made with React. Designed with Strata from HTML5 UP",
+    "months": "months",
+    "years": "years",
+    "month": "month",
+    "year": "year",
+    "from": "from",
+    "to": "to",
+    "at": "at",
+    "seeMoreTags": "Voir plus...",
+    "seeLessTags": "Voir moins..."
+  },
+  "profile": {
+    "profile": "",
+    "aboutme": "Diplomé de l'école Centrale Paris. Je travaille actuellement en tant qu'architecte & développeur web agile au sein de Theodo.",
+    "email": "jerem.dardour@gmail.com",
+    "address": "82 bd des batignolles, 75017 PARIS",
+    "links": [
+      {
+        "class": "fa-github",
+        "link": "https://github.com/jeremd"
+      },
+      {
+        "class": "fa-linkedin",
+        "link": "https://www.linkedin.com/in/jeremy-dardour"
+      }
+    ],
+    "last_talks": [
+      {
+        "id": 1,
+        "talk_label": "\"Two React fans sent to Angular battlegrounds\" with Loic Carbonne @ FullStack London 2018",
+        "talk_link": "https://skillsmatter.com/skillscasts/11754-two-react-fans-sent-to-angular-battlegrounds-and-what-they-learnt",
+        "iframe_url": "https://player.vimeo.com/video/279840725"
+      },
+      {
+        "id": 2,
+        "talk_label": "\"Ne laissez pas votre state devenir un monstre informe avec ImmutableJS\" @ParisJS MeetUp #68",
+        "talk_link": "https://www.youtube.com/embed/XYtmT82M42o?start=2278",
+        "iframe_url": "https://www.youtube.com/embed/XYtmT82M42o?start=2278"
+      }
+    ],
+    "last_articles": [],
+    "work_companies": [],
+    "schools": [],
+    "projects": []
+  }
+}
