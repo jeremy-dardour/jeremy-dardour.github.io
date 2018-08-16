@@ -1,0 +1,4 @@
+- nom dans les onglets
+- styles des sections de talks
+- identique pour les articles
+- mep
