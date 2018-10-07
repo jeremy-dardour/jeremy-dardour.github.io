@@ -569,6 +569,11 @@
 
 		li {
 			padding-left: 0.5em;
+
+			&.spaced {
+				padding-top: 20px;
+				margin-top: 10px;
+			}
 		}
 
 		&.alt {

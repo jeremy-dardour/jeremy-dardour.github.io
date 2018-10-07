@@ -9,7 +9,7 @@ let Player = ({ talk_link ,iframe_url}) => {
 }
 
 let Talk = ({ talk_label, talk_link, iframe_url }) => (
-  <li>
+  <li className="spaced">
     <Player talk_link={talk_link} iframe_url={iframe_url} />
     <br />
     <a href={talk_link} target="_blank">{talk_label}</a>
